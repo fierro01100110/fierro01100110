@@ -3,12 +3,12 @@
 <div align="center" ><img width="100%" alt="Welcome To My Profile!"src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+QA+Tester+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Fierro;Software+QA+Tester+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <div align="center" id="badges">
-  <a href ="https://www.linkedin.com/in/vince-gasimov/">
-    <img src="https://img.shields.io/badge/VINCE-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href ="https://www.linkedin.com/in/Fierro-gasimov/">
+    <img src="https://img.shields.io/badge/Fierro-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 - :seedling: Exploring New Technologies And Tools.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VINCE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fierro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Fierro-gasimov/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,24 +51,24 @@
 
 ---
 
-### <p align="left"> :fire: My Stats :  <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="vince-gasimov" /> </p>
+### <p align="left"> :fire: My Stats :  <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="fierro01100110" /> </p>
 
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fierro01100110&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vince-gasimov&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fierro01100110&theme=dark)](https://git.io/streak-stats)
   
   </div>
   
   <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vince-gasimov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fierro01100110&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
