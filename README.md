@@ -60,11 +60,7 @@
   
   </div>
 
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fierro01100110&theme=dark)](https://git.io/streak-stats)
-  
-  </div>
+
   
   <div align="center">
   
