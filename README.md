@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" id="badges">
-  <a href ="https://www.linkedin.com/in/Fierro-gasimov/">
+  <a href ="https://www.linkedin.com/in/fierrogasimov/">
     <img src="https://img.shields.io/badge/Fierro-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
