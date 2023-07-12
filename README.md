@@ -54,13 +54,12 @@
 ### <p align="left"> :fire: My Stats :  <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="fierro01100110" /> </p>
 
 
+
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fierro01100110&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fierro01100110&theme=dark)](https://git.io/streak-stats)
   
   </div>
-
-
   
   <div align="center">
   
